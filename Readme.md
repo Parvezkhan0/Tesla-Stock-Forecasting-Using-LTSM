@@ -5,7 +5,7 @@ This repository contains notebooks and datasets for a comprehensive project focu
 
 ## Dataset Details
 ### Yahoo Finance Dataset
-- **Context:** This dataset explores Tesla's stock price from its initial public offering (IPO) to a specific date.
+- **Context:** This dataset explores Tesla's stock price from its initial public offering (IPO)  to a specific date.
 - **Content:** 
   - Date
   - Open
