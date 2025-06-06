@@ -14,7 +14,7 @@ This repository contains notebooks and datasets for a comprehensive project focu
   - Close
   - Volume
   - Adjusted Close
-- **Acknowledgements:** Acquired from Yahoo Finance through Python programming, with inspiration drawn from Sentdex.
+- **Acknowledgements:** Acquired from Yahoo Finance through Python programming.
 
 ### TSLA EOD Dataset
 - **Context:** Explores Tesla's recent stock performance, capturing a period of significant growth.
